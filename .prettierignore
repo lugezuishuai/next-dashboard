@@ -93,7 +93,6 @@ package-lock.json
 shrinkwrap.json
 
 # 构建产物
-lib
 es
 dist
 
